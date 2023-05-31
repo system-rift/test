@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Wellcome to my app 2! <code>pages/index.js</code>
+          Wellcome to my app 3! <code>pages/index.js</code>
         </p>
 
         <div className={styles.grid}>
